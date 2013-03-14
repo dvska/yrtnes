@@ -1,0 +1,4 @@
+# python packages required to install
+
+virtualenv
+pyyaml

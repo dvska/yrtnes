@@ -1,0 +1,10 @@
+This is install instructions for Yrtnes server
+==============================================
+
+Base requirements:
+    Debian-based Linux OS with Python 2.7
+
+To install run:
+    apt-get install python-dev python-pip
+    pip install -r requirements.txt
+
